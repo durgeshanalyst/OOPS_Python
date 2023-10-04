@@ -33,4 +33,4 @@ As we move into this new era of specialization and efficiency, the power of OOP 
 
 Feel free to contribute your thoughts and ideas on how OOP can be further applied in specific domains. This is an open discussion, and your insights are valuable.
 
-<img src= 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Foops-concepts-in-java%2F&psig=AOvVaw0Ta0u4VEFx04V1pzmmasMG&ust=1696490950060000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjCvLfv24EDFQAAAAAdAAAAABAE'>
+![OOPS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Foops-concepts-in-java%2F&psig=AOvVaw0Ta0u4VEFx04V1pzmmasMG&ust=1696490950060000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjCvLfv24EDFQAAAAAdAAAAABAE)
