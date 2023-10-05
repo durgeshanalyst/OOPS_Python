@@ -34,3 +34,9 @@ As we move into this new era of specialization and efficiency, the power of OOP 
 Feel free to contribute your thoughts and ideas on how OOP can be further applied in specific domains. This is an open discussion, and your insights are valuable.
 
 ![OOPS](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/07/01101325/oops-concept.png)
+
+# Class
+
+# Object
+
+# Function vs Method
